@@ -1,0 +1,34 @@
+[
+  {
+    "imageUrl": "https://bellroy-cms-images.imgix.net/our-story-2024/homepage-our-story.jpg?auto=format&fit=max&w=600",
+    "imageAlt": "Designed in Melbourne",
+    "title": "Designed in Melbourne",
+    "description": "We are a design-obsessed brand based in Australia, but our products are carried right across the globe.",
+    "linkUrl": "/about-us",
+    "linkText": "Read about us >"
+  },
+  {
+    "imageUrl": "https://bellroy-cms-images.imgix.net/our-story-2024/homepage-syw.jpg?auto=format&fit=max&w=600",
+    "imageAlt": "Engineered slim",
+    "title": "Engineered slim",
+    "description": "We re-engineered the everyday wallet back in 2010, removing all excess and slimming millions of pockets in the process.",
+    "linkUrl": "/collection/slim-your-wallet",
+    "linkText": "Slim your wallet >"
+  },
+  {
+    "imageUrl": "https://bellroy-cms-images.imgix.net/our-story-2024/homepage-story-b-corp.jpg?auto=format&fit=max&w=600",
+    "imageAlt": "Certified B Corp",
+    "title": "Certified B Corp",
+    "description": "We’re recognized for using business as a force for good. Which includes our development of recycled materials.",
+    "linkUrl": "/our-materials",
+    "linkText": "Learn about our materials >"
+  },
+  {
+    "imageUrl": "https://bellroy-cms-images.imgix.net/our-story-2024/homepage-story-warranty.jpg?auto=format&fit=max&w=600",
+    "imageAlt": "Making products that last",
+    "title": "Making products that last",
+    "description": "We’re committed to making products that can be used and loved for as long as possible. Read about our product guarantees.",
+    "linkUrl": "/journal/warranty",
+    "linkText": "On the Journal >"
+  }
+]

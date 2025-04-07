@@ -1,0 +1,13 @@
+{
+  "name": "my-elm-astro-project",
+  "version": "1.0.0",
+  "scripts": {
+    "build:elm": "elm make src/Main.elm --output public/elm.js --debug",
+    "build:astro": "astro build",
+    "start:astro": "astro dev --port 4321"
+  },
+  "devDependencies": {
+    "astro": "^2.0.0",
+    "elm": "^0.19.1"
+  }
+}
