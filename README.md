@@ -1,4 +1,4 @@
-- https://job-boards.greenhouse.io/bellroy/jobs/6710206?gh_src=0218aee71us
+https://job-boards.greenhouse.io/bellroy/jobs/6710206?gh_src=0218aee71us
 
 # My Elm + Astro Project
 
@@ -15,7 +15,7 @@ This is a simple web project that combines Astro for the frontend framework with
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:tillydray/my-elm-astro-project.git
    cd my-elm-astro-project
    ```
 
